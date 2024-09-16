@@ -1,0 +1,3 @@
+displayName = Vanilla Tweaks
+author = ZardynAeratel
+version = 0.11

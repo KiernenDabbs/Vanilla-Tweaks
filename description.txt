@@ -1,0 +1,5 @@
+Adds and tweaks some items to make game progression a little smoother
+
+Version 0.11 (BETA)
+- Added Leaf Whip starting weapon for Summoner
+- Added Oak Tome starting weapon for Mage

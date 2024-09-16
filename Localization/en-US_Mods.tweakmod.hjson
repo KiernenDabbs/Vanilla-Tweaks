@@ -1,0 +1,28 @@
+# This file will automatically update with entries for new content after a build and reload
+
+Items: {
+	TestWeapon: {
+		DisplayName: Test Weapon
+		Tooltip: ""
+	}
+
+	OakTome: {
+		Tooltip: Casts a volley of sharp leaves
+		DisplayName: Oak Tome
+	}
+
+	LeafWhipAdvanced: {
+		Tooltip: ""
+		DisplayName: Leaf Whip Advanced
+	}
+
+	LeafWhip: {
+		Tooltip: Preferred weapon of the Lorax
+		DisplayName: Leaf Whip
+	}
+}
+
+Projectiles: {
+	LeafWhipProjectileAdvanced.DisplayName: Leaf Whip Projectile Advanced
+	LeafWhipProjectile.DisplayName: Leaf Whip Projectile
+}
