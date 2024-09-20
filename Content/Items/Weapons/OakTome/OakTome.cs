@@ -3,7 +3,7 @@ using Terraria.Enums;
 using Terraria.ID;
 using Terraria.ModLoader;
 
-namespace tweakmod.Items.Weapons.OakTome
+namespace tweakmod.Content.Items.Weapons.OakTome
 {
     public class OakTome : ModItem
     {

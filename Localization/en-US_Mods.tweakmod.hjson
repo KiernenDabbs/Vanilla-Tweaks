@@ -6,6 +6,16 @@ Items: {
 		Tooltip: ""
 	}
 
+	PharoahsMask: {
+		DisplayName: Pharoah's Mask
+		Tooltip: "'Wouldn't it be silly if this item was useless?'"
+	}
+
+	PharoahsRobe: {
+		DisplayName: Pharoah's Robe
+		Tooltip: "'Imagine if this item was useless'"
+	}
+
 	OakTome: {
 		Tooltip: Casts a volley of sharp leaves
 		DisplayName: Oak Tome

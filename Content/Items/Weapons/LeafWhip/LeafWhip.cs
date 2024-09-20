@@ -4,7 +4,7 @@ using Terraria.GameContent.Creative;
 using Terraria.ID;
 using Terraria.ModLoader;
 
-namespace tweakmod.Items.Weapons.LeafWhip
+namespace tweakmod.Content.Items.Weapons.LeafWhip
 {
     public class LeafWhip : ModItem
     {

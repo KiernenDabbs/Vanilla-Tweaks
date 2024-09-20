@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("tweakmod")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+76b687accf6e6732685994c6b2358606a996b901")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+134d131c89eebb36131d5400c6c506c7a32d7da1")]
 [assembly: System.Reflection.AssemblyProductAttribute("tweakmod")]
 [assembly: System.Reflection.AssemblyTitleAttribute("tweakmod")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
