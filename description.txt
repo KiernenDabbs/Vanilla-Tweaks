@@ -1,8 +1,8 @@
-(NOTE: HEAVY DEVELOPMENT) A quality-of-life mod that adds and tweaks some items to make game progression a little smoother
+(NOTE: IN BETA) 
+A quality-of-life mod that adds and tweaks some items to make game progression a little smoother
 This mod is designed to be "Vanilla+", meaning it stays closely to the feel of the base game while only tweaking a few things
 
-Note: There was an old mod called Vanilla Tweaks by Pop000100, which is now outdated as most of the features
-the mod had are now in the base game or another mod does it better.
+Note: There was an old mod called Vanilla Tweaks by Pop000100, which is now outdated as most of the features the mod had are now in the base game or another mod does it better.
 *This mod is similar, but is more recent and has different features!*
 
 Features:
@@ -12,9 +12,11 @@ as both melee and ranged have craftable starter weapons.
 
 Changelog:
 (BETA Versions)
-Version 0.11 (BETA)
+Version 0.1.2 (BETA)
 - Balanced starter items for each class (leaf whip/oak tome)
+
+Version 0.1.1 (BETA)
+- Added Oak Tome starting weapon for Mage
 
 Version 0.10 (BETA)
 - Added Leaf Whip starting weapon for Summoner
-- Added Oak Tome starting weapon for Mage
