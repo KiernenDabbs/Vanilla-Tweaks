@@ -18,9 +18,9 @@ namespace tweakmod.Items.Weapons.LeafWhip
         {
             // This method quickly sets the whip's properties.
             // Mouse over to see its parameters.
-            Item.DefaultToWhip(ModContent.ProjectileType<LeafWhipProjectile>(), 9, 2, 4);
+            Item.DefaultToWhip(ModContent.ProjectileType<LeafWhipProjectile>(), 8, 2, 4);
 
-            Item.shootSpeed = 5;
+            Item.shootSpeed = 4;
             Item.channel = false;
 
             Item.SetShopValues(ItemRarityColor.White0, 10);

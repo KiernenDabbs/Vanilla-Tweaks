@@ -18,8 +18,8 @@ namespace tweakmod.Items.Weapons.OakTome
             Item.UseSound = SoundID.Grass;
 
             // A special method that sets the damage, knockback, and bonus critical strike chance.
-            // This weapon has a crit of 32% which is added to the players default crit chance of 4%
-            Item.SetWeaponValues(9, 6, 32);
+            // This weapon has a crit of 16% which is added to the players default crit chance of 4%
+            Item.SetWeaponValues(8, 6, 16); // 8 damage, 6 knockback, 16 crit modifier
 
             Item.SetShopValues(ItemRarityColor.White0, 10);
         }
@@ -29,7 +29,7 @@ namespace tweakmod.Items.Weapons.OakTome
         {
             Recipe recipe = CreateRecipe();
             recipe.AddIngredient(ItemID.Wood, 25);
-            recipe.AddIngredient(ItemID.Acorn, 1);
+            recipe.AddIngredient(ItemID.Acorn, 5);
             recipe.AddTile(TileID.WorkBenches);
             recipe.Register();
         }

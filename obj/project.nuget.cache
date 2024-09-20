@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+Sv8hp6Ej8zl/PnTBDVI+BZbWb2XyymNdmyJCOpg6cMZhTMpqHvxiO5BdrehvNG6OR/1Fz81ccjdBr/hSNmMtQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kiern\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\tweakmod\\tweakmod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kiern\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

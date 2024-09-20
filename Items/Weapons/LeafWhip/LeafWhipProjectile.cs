@@ -23,7 +23,7 @@ namespace tweakmod.Items.Weapons.LeafWhip
 
             // use these to change from the vanilla defaults
             // Projectile.WhipSettings.Segments = 20;
-            // Projectile.WhipSettings.RangeMultiplier = 1f;
+            Projectile.WhipSettings.RangeMultiplier = 0.8f;
         }
 
         private float Timer
