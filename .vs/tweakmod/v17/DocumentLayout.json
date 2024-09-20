@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\kiern\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\tweakmod\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{45FB4AE7-F8BE-4502-B76B-D29AEA5F2444}|tweakmod.csproj|c:\\users\\kiern\\documents\\my games\\terraria\\tmodloader\\modsources\\tweakmod\\items\\weapons\\leafwhip\\leafwhipprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45FB4AE7-F8BE-4502-B76B-D29AEA5F2444}|tweakmod.csproj|solutionrelative:items\\weapons\\leafwhip\\leafwhipprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{45FB4AE7-F8BE-4502-B76B-D29AEA5F2444}|tweakmod.csproj|c:\\users\\kiern\\documents\\my games\\terraria\\tmodloader\\modsources\\tweakmod\\description.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{45FB4AE7-F8BE-4502-B76B-D29AEA5F2444}|tweakmod.csproj|solutionrelative:description.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45FB4AE7-F8BE-4502-B76B-D29AEA5F2444}|tweakmod.csproj|c:\\users\\kiern\\documents\\my games\\terraria\\tmodloader\\modsources\\tweakmod\\items\\weapons\\leafwhip\\leafwhip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{45FB4AE7-F8BE-4502-B76B-D29AEA5F2444}|tweakmod.csproj|c:\\users\\kiern\\documents\\my games\\terraria\\tmodloader\\modsources\\tweakmod\\build.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{45FB4AE7-F8BE-4502-B76B-D29AEA5F2444}|tweakmod.csproj|solutionrelative:build.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45FB4AE7-F8BE-4502-B76B-D29AEA5F2444}|tweakmod.csproj|C:\\Users\\kiern\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\tweakmod\\items\\weapons\\oaktome\\oaktome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45FB4AE7-F8BE-4502-B76B-D29AEA5F2444}|tweakmod.csproj|solutionrelative:items\\weapons\\oaktome\\oaktome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45FB4AE7-F8BE-4502-B76B-D29AEA5F2444}|tweakmod.csproj|C:\\Users\\kiern\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\tweakmod\\items\\weapons\\leafwhip\\leafwhip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{45FB4AE7-F8BE-4502-B76B-D29AEA5F2444}|tweakmod.csproj|solutionrelative:items\\weapons\\leafwhip\\leafwhip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45FB4AE7-F8BE-4502-B76B-D29AEA5F2444}|tweakmod.csproj|c:\\users\\kiern\\documents\\my games\\terraria\\tmodloader\\modsources\\tweakmod\\items\\weapons\\oaktome\\oaktome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45FB4AE7-F8BE-4502-B76B-D29AEA5F2444}|tweakmod.csproj|solutionrelative:items\\weapons\\oaktome\\oaktome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{45FB4AE7-F8BE-4502-B76B-D29AEA5F2444}|tweakmod.csproj|c:\\users\\kiern\\documents\\my games\\terraria\\tmodloader\\modsources\\tweakmod\\items\\weapons\\leafwhip\\leafwhipprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45FB4AE7-F8BE-4502-B76B-D29AEA5F2444}|tweakmod.csproj|solutionrelative:items\\weapons\\leafwhip\\leafwhipprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,6 +32,40 @@
           "DockedWidth": 200,
           "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "description.txt",
+              "DocumentMoniker": "C:\\Users\\kiern\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\tweakmod\\description.txt",
+              "RelativeDocumentMoniker": "description.txt",
+              "ToolTip": "C:\\Users\\kiern\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\tweakmod\\description.txt",
+              "RelativeToolTip": "description.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-20T15:31:44.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "build.txt",
+              "DocumentMoniker": "C:\\Users\\kiern\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\tweakmod\\build.txt",
+              "RelativeDocumentMoniker": "build.txt",
+              "ToolTip": "C:\\Users\\kiern\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\tweakmod\\build.txt",
+              "RelativeToolTip": "build.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-20T15:31:37.927Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -39,7 +81,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "LeafWhip.cs",
               "DocumentMoniker": "C:\\Users\\kiern\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\tweakmod\\Items\\Weapons\\LeafWhip\\LeafWhip.cs",
               "RelativeDocumentMoniker": "Items\\Weapons\\LeafWhip\\LeafWhip.cs",
@@ -52,24 +94,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "LeafWhipProjectile.cs",
               "DocumentMoniker": "C:\\Users\\kiern\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\tweakmod\\Items\\Weapons\\LeafWhip\\LeafWhipProjectile.cs",
               "RelativeDocumentMoniker": "Items\\Weapons\\LeafWhip\\LeafWhipProjectile.cs",
               "ToolTip": "C:\\Users\\kiern\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\tweakmod\\Items\\Weapons\\LeafWhip\\LeafWhipProjectile.cs",
               "RelativeToolTip": "Items\\Weapons\\LeafWhip\\LeafWhipProjectile.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAiwBkAAAA7AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-20T15:21:15.266Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }
