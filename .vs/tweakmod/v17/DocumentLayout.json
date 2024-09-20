@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\kiern\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\tweakmod\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{45FB4AE7-F8BE-4502-B76B-D29AEA5F2444}|tweakmod.csproj|C:\\Users\\kiern\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\tweakmod\\content\\items\\weapons\\oaktome\\oaktome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45FB4AE7-F8BE-4502-B76B-D29AEA5F2444}|tweakmod.csproj|solutionrelative:content\\items\\weapons\\oaktome\\oaktome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{45FB4AE7-F8BE-4502-B76B-D29AEA5F2444}|tweakmod.csproj|c:\\users\\kiern\\documents\\my games\\terraria\\tmodloader\\modsources\\tweakmod\\content\\itemtweaks\\armor\\pharoah.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{45FB4AE7-F8BE-4502-B76B-D29AEA5F2444}|tweakmod.csproj|solutionrelative:content\\itemtweaks\\armor\\pharoah.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45FB4AE7-F8BE-4502-B76B-D29AEA5F2444}|tweakmod.csproj|c:\\users\\kiern\\documents\\my games\\terraria\\tmodloader\\modsources\\tweakmod\\localization\\en-us_mods.tweakmod.hjson||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{45FB4AE7-F8BE-4502-B76B-D29AEA5F2444}|tweakmod.csproj|C:\\Users\\kiern\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\tweakmod\\localization\\en-us_mods.tweakmod.hjson||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{45FB4AE7-F8BE-4502-B76B-D29AEA5F2444}|tweakmod.csproj|solutionrelative:localization\\en-us_mods.tweakmod.hjson||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45FB4AE7-F8BE-4502-B76B-D29AEA5F2444}|tweakmod.csproj|c:\\users\\kiern\\documents\\my games\\terraria\\tmodloader\\modsources\\tweakmod\\content\\items\\weapons\\oaktome\\oaktome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45FB4AE7-F8BE-4502-B76B-D29AEA5F2444}|tweakmod.csproj|solutionrelative:content\\items\\weapons\\oaktome\\oaktome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{45FB4AE7-F8BE-4502-B76B-D29AEA5F2444}|tweakmod.csproj|C:\\Users\\kiern\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\tweakmod\\description.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
@@ -56,34 +56,7 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2024-09-20T15:31:44.107Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "en-US_Mods.tweakmod.hjson",
-              "DocumentMoniker": "C:\\Users\\kiern\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\tweakmod\\Localization\\en-US_Mods.tweakmod.hjson",
-              "RelativeDocumentMoniker": "Localization\\en-US_Mods.tweakmod.hjson",
-              "ToolTip": "C:\\Users\\kiern\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\tweakmod\\Localization\\en-US_Mods.tweakmod.hjson",
-              "RelativeToolTip": "Localization\\en-US_Mods.tweakmod.hjson",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-09-20T16:10:02.121Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Pharoah.cs",
-              "DocumentMoniker": "C:\\Users\\kiern\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\tweakmod\\Content\\ItemTweaks\\Armor\\Pharoah.cs",
-              "RelativeDocumentMoniker": "Content\\ItemTweaks\\Armor\\Pharoah.cs",
-              "ToolTip": "C:\\Users\\kiern\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\tweakmod\\Content\\ItemTweaks\\Armor\\Pharoah.cs",
-              "RelativeToolTip": "Content\\ItemTweaks\\Armor\\Pharoah.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAkwBQAAAA5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T15:47:19.935Z",
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -96,12 +69,37 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "en-US_Mods.tweakmod.hjson",
+              "DocumentMoniker": "C:\\Users\\kiern\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\tweakmod\\Localization\\en-US_Mods.tweakmod.hjson",
+              "RelativeDocumentMoniker": "Localization\\en-US_Mods.tweakmod.hjson",
+              "ToolTip": "C:\\Users\\kiern\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\tweakmod\\Localization\\en-US_Mods.tweakmod.hjson",
+              "RelativeToolTip": "Localization\\en-US_Mods.tweakmod.hjson",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-20T16:10:02.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pharoah.cs",
+              "DocumentMoniker": "C:\\Users\\kiern\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\tweakmod\\Content\\ItemTweaks\\Armor\\Pharoah.cs",
+              "RelativeDocumentMoniker": "Content\\ItemTweaks\\Armor\\Pharoah.cs",
+              "ToolTip": "C:\\Users\\kiern\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\tweakmod\\Content\\ItemTweaks\\Armor\\Pharoah.cs",
+              "RelativeToolTip": "Content\\ItemTweaks\\Armor\\Pharoah.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAkwBIAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T15:47:19.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "OakTome.cs",
               "DocumentMoniker": "C:\\Users\\kiern\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\tweakmod\\Content\\Items\\Weapons\\OakTome\\OakTome.cs",
               "RelativeDocumentMoniker": "Content\\Items\\Weapons\\OakTome\\OakTome.cs",
               "ToolTip": "C:\\Users\\kiern\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\tweakmod\\Content\\Items\\Weapons\\OakTome\\OakTome.cs",
               "RelativeToolTip": "Content\\Items\\Weapons\\OakTome\\OakTome.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAACYAAAArAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAABwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-20T15:19:26.996Z",
               "EditorCaption": ""
